@@ -23,6 +23,3 @@ uppercase.toUpperCase() === uppercase
 var lowercase = "hello!"
 lowercase.toLowerCase === lowercase
 
-var mixedcase = "I love you, Grandma."
-mixedcase.toLowerCase === mixedcase
-mixedcase.toUpperCase === mixedcase
