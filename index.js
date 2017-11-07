@@ -16,6 +16,6 @@ function sayHiToGrandma(string) {
   } else { if (var = uppercase) {
     console.log("YES INDEED!")
   }
-    
+
   }
 }
